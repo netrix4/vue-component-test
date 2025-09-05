@@ -34,9 +34,11 @@ console.log(postList);
   padding-bottom: 5%;
   padding-left: 15%;
   padding-right: 15%;
+  /* margin: 0%; */
   gap: 1%;
   background-color: #00ab67;
   height: 100vh;
-  width: 100%;
+  /* overflow-y: auto; */
+  /* width: 100%; */
 }
 </style>
